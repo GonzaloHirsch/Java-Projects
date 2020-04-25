@@ -7,30 +7,39 @@ import Rotate_Matrix.Solution;
 import java.util.ArrayList;
 
 /**
- * Original problem: https://www.interviewbit.com/problems/rotate-matrix/
+ * Original problem: https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
  *
- * You are given an n x n 2D matrix representing an image.
+ * Find the contiguous subarray within an array, A of length N which has the largest sum.
  *
- * Rotate the image by 90 degrees (clockwise).
+ * Input Format:
  *
- * You need to do this in place.
+ * The first and the only argument contains an integer array, A.
+ * Output Format:
  *
- * Note that if you end up using an additional array, you will only receive partial score.
+ * Return an integer representing the maximum possible sum of the contiguous subarray.
+ * Constraints:
  *
- * Example:
+ * 1 <= N <= 1e6
+ * -1000 <= A[i] <= 1000
+ * For example:
  *
- * If the array is
+ * Input 1:
+ *     A = [1, 2, 3, 4, -10]
  *
- * [
- *     [1, 2],
- *     [3, 4]
- * ]
- * Then the rotated array becomes:
+ * Output 1:
+ *     10
  *
- * [
- *     [3, 1],
- *     [4, 2]
- * ]
+ * Explanation 1:
+ *     The subarray [1, 2, 3, 4] has the maximum possible sum of 10.
+ *
+ * Input 2:
+ *     A = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+ *
+ * Output 2:
+ *     6
+ *
+ * Explanation 2:
+ *     The subarray [4,-1,2,1] has the maximum possible sum of 6.
  */
 class Main {
     public static void main(String[] args){
