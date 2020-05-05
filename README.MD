@@ -6,4 +6,4 @@ It contains:
  - Sudoku Solver based on backtracking
  - Solution to many coding interview problems used as practice
 
-Made by *Gonzalo Hirsch*
+Made by **Gonzalo Hirsch**
