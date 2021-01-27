@@ -2,7 +2,7 @@ package interviewProblems.Max_Sum_Contiguous_Subarray;
 
 // ---------------------------------- SOLVED ----------------------------------
 // --------------------------- FACEBOOK / April 2020 --------------------------
-import Rotate_Matrix.Solution;
+import interviewProblems.Rotate_Matrix.Solution;
 
 import java.util.ArrayList;
 
@@ -43,7 +43,7 @@ import java.util.ArrayList;
  */
 class Main {
     public static void main(String[] args){
-        Rotate_Matrix.Solution sol = new Solution();
+        interviewProblems.Rotate_Matrix.Solution sol = new Solution();
         ArrayList<Integer> a1 = new ArrayList<>();
         a1.add(1);
         a1.add(2);
