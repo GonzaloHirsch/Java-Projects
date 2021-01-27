@@ -1,10 +1,7 @@
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
+package sudokuSolver;
+
 import java.time.Duration;
-import java.time.temporal.TemporalUnit;
-import java.util.Date;
 import java.util.Scanner;
-import java.util.TimeZone;
 
 public class Tester {
 

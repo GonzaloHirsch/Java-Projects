@@ -1,3 +1,5 @@
+package sudokuSolver;
+
 import java.util.*;
 
 public class Solver {
