@@ -3,18 +3,42 @@ package interviewProblems.Median_Of_Two_Sorted_Arrays;
 // ---------------------------------- SOLVED ----------------------------------
 // --------------------------- FACEBOOK / April 2020 --------------------------
 /**
- * Original problem: https://leetcode.com/problems/two-sum/
+ * Original problem: https://leetcode.com/problems/median-of-two-sorted-arrays/
  *
- * Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+ * Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
  *
- * You may assume that each input would have exactly one solution, and you may not use the same element twice.
+ * Example 1:
  *
- * Example:
+ * Input: nums1 = [1,3], nums2 = [2]
+ * Output: 2.00000
+ * Explanation: merged array = [1,2,3] and median is 2.
+ * Example 2:
  *
- * Given nums = [2, 7, 11, 15], target = 9,
+ * Input: nums1 = [1,2], nums2 = [3,4]
+ * Output: 2.50000
+ * Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
+ * Example 3:
  *
- * Because nums[0] + nums[1] = 2 + 7 = 9,
- * return [0, 1].
+ * Input: nums1 = [0,0], nums2 = [0,0]
+ * Output: 0.00000
+ * Example 4:
+ *
+ * Input: nums1 = [], nums2 = [1]
+ * Output: 1.00000
+ * Example 5:
+ *
+ * Input: nums1 = [2], nums2 = []
+ * Output: 2.00000
+ *
+ *
+ * Constraints:
+ *
+ * nums1.length == m
+ * nums2.length == n
+ * 0 <= m <= 1000
+ * 0 <= n <= 1000
+ * 1 <= m + n <= 2000
+ * -106 <= nums1[i], nums2[i] <= 106
  */
 class Main {
     public static void main(String[] args){
