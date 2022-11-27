@@ -1,7 +1,7 @@
 package interviewProblems.Minimum_Index_Sum_Of_Two_Lists;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / NOVEMBER 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
  *

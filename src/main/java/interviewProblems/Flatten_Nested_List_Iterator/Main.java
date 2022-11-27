@@ -1,7 +1,7 @@
 package interviewProblems.Flatten_Nested_List_Iterator;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / NOVEMBER 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/flatten-nested-list-iterator/
  *

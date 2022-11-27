@@ -1,7 +1,7 @@
 package interviewProblems.Check_array_Formation_Through_Concatenation;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / November 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/check-array-formation-through-concatenation/
  *

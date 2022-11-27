@@ -1,7 +1,7 @@
 package interviewProblems.Long_Pressed_Name;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / NOVEMBER 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/long-pressed-name/
  *

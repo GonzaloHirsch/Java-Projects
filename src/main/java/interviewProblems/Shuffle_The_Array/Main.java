@@ -1,7 +1,7 @@
 package interviewProblems.Shuffle_The_Array;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / NOVEMBER 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/shuffle-the-array/
  *

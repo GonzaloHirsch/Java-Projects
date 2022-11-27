@@ -1,7 +1,7 @@
 package interviewProblems.Height_Checker;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / NOVEMBER 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/height-checker/
  *

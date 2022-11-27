@@ -1,11 +1,11 @@
 package interviewProblems.Sum_Of_Nodes_With_Even_Valued_Grandparent;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / NOVEMBER 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
  *
- * Difficulty: MEDIUM
+ * Difficulty: MEDIUM (found in interview sample in Leetcode)
  *
  * Given the root of a binary tree, return the sum of values of nodes with an even-valued grandparent. If there are no nodes with an even-valued grandparent, return 0.
  *

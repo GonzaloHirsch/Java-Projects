@@ -1,7 +1,7 @@
 package interviewProblems.Minimum_Absolute_Difference;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / NOVEMBER 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/minimum-absolute-difference/
  *

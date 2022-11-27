@@ -1,7 +1,7 @@
 package interviewProblems.Business_Hours_Open_Ratio;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / November 2022 --------------------------
 /**
  * Original problem: EXAMPLE QUESTION FROM HACKER RANK
  *

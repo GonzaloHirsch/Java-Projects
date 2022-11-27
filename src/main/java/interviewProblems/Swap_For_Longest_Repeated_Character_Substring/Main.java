@@ -1,7 +1,7 @@
 package interviewProblems.Swap_For_Longest_Repeated_Character_Substring;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / NOVEMBER 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
  *

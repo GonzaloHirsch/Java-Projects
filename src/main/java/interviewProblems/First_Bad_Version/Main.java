@@ -1,7 +1,7 @@
 package interviewProblems.First_Bad_Version;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / NOVEMBER 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/first-bad-version/
  *

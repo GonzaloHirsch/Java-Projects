@@ -1,7 +1,7 @@
 package interviewProblems.Construct_K_Palindrome_Strings;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / November 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/construct-k-palindrome-strings/
  *

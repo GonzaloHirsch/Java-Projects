@@ -1,7 +1,7 @@
 package interviewProblems.Business_Review_Stats;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / November 2022 --------------------------
 /**
  * Original problem: EXAMPLE QUESTION FROM HACKER RANK ON YELP CODING CHALLENGE
  *

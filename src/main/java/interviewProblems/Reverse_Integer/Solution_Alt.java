@@ -1,8 +1,8 @@
-package interviewProblems.Reverse_Integer___Alternative_Solution;
+package interviewProblems.Reverse_Integer;
 
 import java.util.ArrayDeque;
 
-class Solution {
+class Solution_Alt {
     public int reverse(int x) {
         int sign = x > 0 ? 1 : -1;
         int num = 0, curr = x * sign;

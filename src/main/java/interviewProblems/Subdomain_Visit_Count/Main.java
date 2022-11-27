@@ -1,7 +1,7 @@
 package interviewProblems.Subdomain_Visit_Count;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / NOVEMBER 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/subdomain-visit-count/
  *

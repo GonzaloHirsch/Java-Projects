@@ -1,7 +1,7 @@
 package interviewProblems.Array_Partition;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / November 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/array-partition/
  *

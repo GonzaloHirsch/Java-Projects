@@ -1,7 +1,7 @@
 package interviewProblems.Destroy_Sequential_Targets;
 
 // ---------------------------------- SOLVED ----------------------------------
-// --------------------------- YELP / November 2020 --------------------------
+// --------------------------- YELP / NOVEMBER 2022 --------------------------
 /**
  * Original problem: https://leetcode.com/problems/destroy-sequential-targets/
  *
