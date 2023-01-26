@@ -2,6 +2,7 @@ package interviewProblems.Longest_Palindromic_Substring;
 
 // ---------------------------------- SOLVED ----------------------------------
 // --------------------------- FACEBOOK / April 2020 --------------------------
+// ----------------------- BLOCKCHAIN.COM / December 2022 ---------------------
 /**
  * Original problem: https://leetcode.com/problems/longest-palindromic-substring/
  *

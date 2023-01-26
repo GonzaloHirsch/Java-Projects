@@ -4,6 +4,7 @@ import java.util.List;
 
 // ---------------------------------- SOLVED ----------------------------------
 // --------------------------- FACEBOOK / April 2020 --------------------------
+// ---------------------- BLOCKCHAIN.COM / December 2022 ----------------------
 /**
  * Original problem: https://leetcode.com/problems/add-two-numbers/
  *

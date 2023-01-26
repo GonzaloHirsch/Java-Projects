@@ -8,9 +8,9 @@ class Solution {
     private static final Comparator<int[]> COMP = new Comparator<int[]>() {
         @Override
         public int compare(int[] a, int[] b) {
-            return Integer.compare(a[H], b[H]);
+            return Integer.compare(a[0], b[0]);
         }
-    }
+    };
 
     public int totalNQueens(int n) {
         // Some already known cases

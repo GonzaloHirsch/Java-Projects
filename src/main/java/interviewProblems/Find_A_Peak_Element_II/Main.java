@@ -3,7 +3,7 @@ package interviewProblems.Find_A_Peak_Element_II;
 // ---------------------------------- SOLVED ----------------------------------
 // ----------------------------- NONE / July 2022 -----------------------------
 /**
- * Original Problem: https://leetcode.com/problems/maximum-xor-after-operations/
+ * Original Problem: https://leetcode.com/problems/find-a-peak-element-ii/
  *
  * A peak element in a 2D grid is an element that is strictly greater than all of its adjacent neighbors to the left, right, top, and bottom.
  *

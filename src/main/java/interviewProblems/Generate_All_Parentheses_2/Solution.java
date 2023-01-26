@@ -1,4 +1,4 @@
-package interviewProblems.Generate_All_Parenthesis_2;
+package interviewProblems.Generate_All_Parentheses_2;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -2,6 +2,7 @@ package interviewProblems.Longest_Substring_Without_Repeating_Characters;
 
 // ---------------------------------- SOLVED ----------------------------------
 // --------------------------- FACEBOOK / April 2020 --------------------------
+// ----------------------- BLOCKCHAIN.COM / December 2022 ---------------------
 /**
  * Original problem: https://leetcode.com/problems/longest-substring-without-repeating-characters/
  *
