@@ -3,7 +3,7 @@ package interviewProblems.Reorder_Data_In_Log_Files;
 // ---------------------------------- SOLVED ----------------------------------
 // --------------------------- YELP / November 2022 --------------------------
 /**
- * Original problem: https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
+ * Original problem: https://leetcode.com/problems/reorder-data-in-log-files/
  *
  * Difficulty: MEDIUM (Taken from mock phone interview from Leetcode)
  *
